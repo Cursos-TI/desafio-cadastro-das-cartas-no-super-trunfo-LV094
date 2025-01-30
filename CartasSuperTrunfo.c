@@ -19,5 +19,14 @@
         printf("Digite a População: \n");
         scanf("%e", &populacao);
 
+        printf("Digite a area: \n");
+        scanf("%e", &area);
+
+        printf("Digite o PIB: \n");
+        scanf("%e", &PIB);
+
+        printf("Digite o numero de pontos turisticos: \n");
+        scanf("%f", &NPT);
+
     return 0;
 }
